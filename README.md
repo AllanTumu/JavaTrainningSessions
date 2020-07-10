@@ -1,5 +1,5 @@
 # JavaTrainningSessions
-This project includes Java training Sestions ranging from Java Basics to Core Java Concepts like Polymophism and collections.
+This project includes Java training Sestions ranging from Java Basics to Core Java Concepts like Polymophism and collections. it also involves Hacker Rank Solutions. 
 ## Content
 It is seperated into 3 diffrent parts:
 - OopConcepts1
@@ -24,3 +24,8 @@ It is seperated into 3 diffrent parts:
 
 ### Under Collections, I am still working on;
 1. Array Lists.
+
+### Under HackerRank solutions;
+1. End of Life
+2. IntToString
+3. javaDataTypes
